@@ -1,0 +1,14 @@
+.myTable{
+    width: 100%;
+    border-collapse: collapse;
+}
+.myTable th, .myTable td{
+    height: 35px;
+}
+.myTable thead tr{
+    border-bottom: 2px solid black;
+}
+.myTable tbody tr{
+    border-bottom: 1px solid black;
+    width: 50px;
+}
